@@ -17,36 +17,42 @@ Becoming a full stack web developer means that you need to be comfortable with w
 
 ### Day 1: SQL Basics & Advanced SQL Queries
 
- - [x] Complete the SQL Basics course
- - [x] Complete the Advanced SQL queries course
+Complete the SQL Basics course and the Advanced SQL queries course.
+
+- [x] Solution SQL for the project from the SQL Basics course (“Design a store database”) is added to a file in your repo named khan-academy/sql_basics.sql
+- [x] Solution SQL for the project from the Advanced SQL queries course (“Data dig”) is added to a file in your repo named khan-academy/advanced_sql_queries.sql
 
 ### Day 2: Relational Queries
 
-- [x]  Complete the Relational Queries course
-- [x]  Complete the Modifying databases with SQL course
+Complete the Relational Queries course and the Modifying databases with SQL course
+
+ - [x] Solution SQL for the project from the Relational Queries course (“Famous people”) is added to a file in your repo named khan-academy/relational_queries.sql
+ - [ ] Solution SQL for the project from the Modifying databases with SQL course (“App impersonator”) is added to a file in your repo named khan-academy/modifying_databases.sql
+
 
 ### Day 3: Install Postgres and Complete Tutorials with psql
 
- - Install Homebrew by following instructions listed here
- -  Install Postgres by following instructions listed here
- - Learn the psql command line tool by working through the following tutorials
- - complete the tutorial for createdb here
- -  complete the tutorial for selecting the database here
- -  complete the tutorial for dropping the database here
- -  complete the tutorial for create table here
- -  complete the tutorial for drop table here
- -  complete the tutorial for schema here
- -  complete the tutorial for insert here
- -  complete the tutorial for select here
- -  complete the tutorial for expressions here
- -  complete the tutorial for where clause here
- -  complete the tutorial for and and or operators here
- -  complete the tutorial for update queries here
- -  complete the tutorial for delete queries here
- -  complete the tutorial for the like clause here
- -  complete the tutorial for the limit clause here
- -  complete the tutorial for the order by clause here
- -  complete the tutorial for the group by clause here
+ - [x] Install Homebrew by following instructions listed here
+ - [x] Install Postgres by following instructions listed here
+
+ Learn the psql command line tool by working through the following tutorials
+ - [ ] complete the tutorial for createdb here
+ - [ ] complete the tutorial for selecting the database here
+ - [ ] complete the tutorial for dropping the database here
+ - [ ] complete the tutorial for create table here
+ - [ ] complete the tutorial for drop table here
+ - [ ] complete the tutorial for schema here
+ - [ ] complete the tutorial for insert here
+ - [ ] complete the tutorial for select here
+ - [ ] complete the tutorial for expressions here
+ - [ ] complete the tutorial for where clause here
+ - [ ] complete the tutorial for and and or operators here
+ - [ ] complete the tutorial for update queries here
+ - [ ] complete the tutorial for delete queries here
+ - [ ] complete the tutorial for the like clause here
+ - [ ] complete the tutorial for the limit clause here
+ - [ ] complete the tutorial for the order by clause here
+ - [ ] complete the tutorial for the group by clause here
 
 ### Day 4: Mini Project & Exercises
 
@@ -70,5 +76,5 @@ Exercises 1-11 in the sql-exercises repo are complete and written to the appropr
 ## General
 
 - [ ] All major features are added via pull requests with a clear description and concise commit messages.
-- [ ] SQL files are well formatted and readable.
-- [ ] All the SQL keywords are capitalized.
+- [x] SQL files are well formatted and readable.
+- [x] All the SQL keywords are capitalized.

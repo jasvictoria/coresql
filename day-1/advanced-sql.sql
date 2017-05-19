@@ -230,3 +230,5 @@ SELECT COUNT(*),
   END AS letter_grade
 FROM student_grades
 GROUP BY letter_grade;
+
+-------------------------------------------------------------------------------
